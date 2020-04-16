@@ -1,4 +1,4 @@
-# This is a curTime hardcoded in python
+# This is a Clock hardcoded in python
 # Just using a few libraries
 # Program Written By Kanak Shilledar
 
