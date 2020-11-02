@@ -1,5 +1,6 @@
 # importing modules
 import speech_recognition
+# phygital is specialized library
 from Phygital import Phygital
 
 # initializing microcontroller COM port
